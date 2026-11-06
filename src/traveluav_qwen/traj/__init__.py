@@ -1,0 +1,1 @@
+from .vis_traj_arch import VisionTrajectoryGenerator
